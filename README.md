@@ -2,6 +2,8 @@
 
 Square Payment module for [vue-storefront](https://github.com/DivanteLtd/vue-storefront), by [Amandeep Singh](<as.smartdevelopers@gmail.com>).
 
+![Demo](demo.png)
+
 ## Installation:
 
 ```shell
